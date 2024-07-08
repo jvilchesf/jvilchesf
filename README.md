@@ -18,4 +18,4 @@ Interests on data analyst, data visualization and related fields.
 
 ---
 
-### Here is my [data analyst and visualization portfolio](https://github.com/dimitreOliveira/MachineLearning) :robot:
+### Here is my [data analyst and visualization portfolio](https://github.com/) :robot:
