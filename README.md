@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm José Miguel Vilches 👋
 
-<!--
-**jvilchesf/jvilchesf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Here is a brief introduction about myself.
 
-Here are some ideas to get you started:
+Currently working as a data analyst freelance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interests on data analyst, data visualization and related fields.
+
+---
+
+### 📫 How to reach me 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/jvilchesf)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/josé-miguel-vilches-fierro-9905aa68)
+<a href="https://www.kaggle.com/josmiguelvilches">
+  <img src="https://www.dataapplab.com/wp-content/uploads/2017/06/kaggle-logo-gray-300.png" width="60px" height="20px">
+</a>
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:josemiguelvilchesfierro@gmail.com)
+
+---
+
+### Here is my [data analyst and visualization portfolio](https://github.com/dimitreOliveira/MachineLearning) :robot:
