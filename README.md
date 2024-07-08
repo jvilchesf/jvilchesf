@@ -2,7 +2,7 @@
 
 ## Here is a brief introduction about myself.
 
-Currently working as a data analyst freelance.
+Currently working as a freelance data analyst.
 
 Interests on data analyst, data visualization and related fields.
 
