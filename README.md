@@ -4,7 +4,7 @@
 
 Currently working as a freelance data analyst.
 
-Interests on data analyst, data visualization and related fields.
+Interests on data analyst, data visualization, machine and deep learning.
 
 ---
 
