@@ -1,4 +1,4 @@
-# Hi there, I'm José Miguel Vilches 👋
+ # Hi there, I'm José Miguel Vilches 👋
 
 ## Here is a brief introduction about myself.
 
@@ -18,4 +18,4 @@ Interests on data analyst, data visualization, machine and deep learning.
 
 ---
 
-### Here is my [data analyst and visualization portfolio](https://github.com/) :robot:
+### Here is my [data analyst and visualization portfolio](https://github.com/jvilchesf/Portfolio) :robot:
