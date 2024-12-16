@@ -18,4 +18,4 @@ Interests on data analyst, data visualization, machine and deep learning.
 
 ---
 
-### Here is my [portfolio](https://jvilchesf.github.io/portfolio.github.io/portfolio_ai/)
+### Here is my [portfolio](https://jvilchesf.github.io/portfolio.github.io/)
