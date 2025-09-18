@@ -1,21 +1,46 @@
- # Hi there, I'm José Miguel Vilches 👋
+# 👋 Hi, I'm José Miguel Vilches  
 
-## Here is a brief introduction about myself.
-
-Currently working as a freelance data analyst.
-
-Interests on data analyst, data visualization, machine and deep learning.
+💡 A data-driven professional with 7+ years of experience in **data analysis, visualization, and machine learning**.  
+Currently exploring the full data ecosystem — from **data engineering** to **LLMs and generative AI**.  
 
 ---
 
-### 📫 How to reach me 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/jvilchesf)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/josé-miguel-vilches-fierro-9905aa68)
-<a href="https://www.kaggle.com/josmiguelvilches">
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" width="60px" height="20px">
-</a>
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:josemiguelvilchesfierro@gmail.com)
+## 🚀 What I Do
+- 🛠️ **Data Engineering** → pipelines, ETL, SQL, BigQuery, Kafka, Kubernetes  
+- 📊 **Data Visualization** → Tableau, Power BI, Looker Studio  
+- 🔍 **Data Analysis** → Python (pandas, scikit-learn), SQL, statistics  
+- 🤖 **Machine Learning** → PyTorch, TensorFlow, model deployment  
+- 🧠 **LLMs & AI** → Hugging Face, LangChain, fine-tuning, RAG pipelines  
 
 ---
 
-### Here is my [portfolio](https://jvilchesf.github.io/portfolio.github.io/)
+## 📌 Featured Projects
+- 🔹 [**Real-Time Crypto Price Prediction**](https://github.com/jvilchesf/Portfolio) – Kafka + RisingWave + PyTorch + Grafana  
+- 🔹 **USB Advanced Hunting** – Microsoft Defender API + MSSQL + Kubernetes  
+- 🔹 **Bills Scan OCR Dataset** – YOLOv11 + TRL for receipt-to-JSON conversion  
+- 🔹 **Insect Cam** – YOLOv11 for insect detection in garden monitoring  
+
+👉 Check out my [**Portfolio Repository**](https://github.com/jvilchesf/Portfolio) for more.  
+
+---
+
+## ⚡ Tech Stack
+**Languages & Tools:**  
+`Python` · `SQL` · `Docker` · `Kubernetes` · `Git` · `Rust` (learning)  
+
+**Libraries & Frameworks:**  
+`Pandas` · `scikit-learn` · `PyTorch` · `TensorFlow` · `Hugging Face`  
+
+**Visualization & BI:**  
+`Tableau` · `Power BI` · `Looker Studio`  
+
+---
+
+## 📫 Get in Touch
+- 💼 [LinkedIn](https://www.linkedin.com/in/jvilchesf/)  
+- 🐙 [GitHub](https://github.com/jvilchesf)  
+- ✉️ Email: **your.email@example.com**
+
+---
+
+✨ *“Data is not just numbers — it’s stories waiting to be told.”*https://jvilchesf.github.io/portfolio.github.io/)
