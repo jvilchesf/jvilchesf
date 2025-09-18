@@ -16,7 +16,7 @@ Currently exploring the full data ecosystem — from **data engineering** to **L
 
 ## 📌 Featured Projects
 - 🔹 [**Real-Time Crypto Price Prediction**](https://github.com/jvilchesf/my_crypto_predictor) – Kafka + RisingWave + Grafana  
-- 🔹 [**Microsoft Defender for Endpoints**](https://github.com/jvilches/MDEndpoints) – Microsoft Defender API + MSSQL + Kubernetes  
+- 🔹 [**Microsoft Defender for Endpoints**](https://github.com/jvilchesf/MDEndpoints) – Microsoft Defender API + MSSQL + Kubernetes  
 - 🔹 **[Bills Scan Photo - Finetuning AI Liquids](https://github.com/jvilchesf/bills_scan)** – Transformers + Hugging Face + Modal + wandb
 - 🔹 **Insect Cam** – YOLOv11 for insect detection in garden monitoring  
 
