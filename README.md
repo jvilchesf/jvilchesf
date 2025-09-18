@@ -38,7 +38,7 @@ Currently exploring the full data ecosystem — from **data engineering** to **L
 
 ## 📫 Get in Touch
 - 💼 [LinkedIn](https://www.linkedin.com/in/jose-miguel-vilches-9905aa68/)  
-- ✉️ Email: *josemiguelvilchesfierro@gmail.com**
+- ✉️ Email **josemiguelvilchesfierro@gmail.com**
 
 ---
 
