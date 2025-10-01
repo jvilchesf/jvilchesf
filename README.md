@@ -28,8 +28,6 @@ Currently exploring the full data ecosystem, from **data engineering** to **LLMs
 - 🔹 [**Building an LLM from scratch**](https://github.com/jvilchesf/build_llm_from_scratch) – Transformers + PyTorch + Chainlit
 - 🔹 [**Bills Scan Photo - Finetuning AI Liquids**](https://github.com/jvilchesf/bills_scan) – Transformers + Hugging Face + Modal + Wandb
 
-👉 Check out my [**Portfolio Repository**](https://github.com/jvilchesf/Portfolio) for more.  
-
 ---
 
 ## ⚡ Tech Stack
@@ -48,8 +46,4 @@ Currently exploring the full data ecosystem, from **data engineering** to **LLMs
 - 💼 [LinkedIn](https://www.linkedin.com/in/jose-miguel-vilches-9905aa68/)  
 - ✉️ Email **josemiguelvilchesfierro@gmail.com**
 
----
 
-✨ *"Data is not just numbers — it's stories waiting to be told."*
-
-📖 [**View My Portfolio Website**](https://jvilchesf.github.io/portfolio.github.io/)
