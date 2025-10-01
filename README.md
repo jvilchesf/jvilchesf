@@ -22,7 +22,7 @@ Currently exploring the full data ecosystem, from **data engineering** to **LLMs
 
 **Data Engineering + Visualization:**
 - 🔹 [**Microsoft Defender for Endpoints**](https://github.com/jvilchesf/mdendpoints) – Microsoft Defender API + MSSQL + Kubernetes 
-- 🔹 [**Tableau NY Real States**](https://github.com/jvilchesf/nyc_realstates) – UV Python + Tableau  
+- 🔹 [**Tableau NY Real States**](https://github.com/jvilchesf/ny_realstates)– UV Python + Tableau  
 
 **AI:**
 - 🔹 [**Building an LLM from scratch**](https://github.com/jvilchesf/build_llm_from_scratch) – Transformers + PyTorch + Chainlit
