@@ -1,7 +1,7 @@
 # 👋 Hi, I'm José Miguel Vilches  
 
 💡 A data-driven professional with 7+ years of experience in **data analysis, visualization, and machine learning**.  
-Currently exploring the full data ecosystem — from **data engineering** to **LLMs**.  
+Currently exploring the full data ecosystem, from **data engineering** to **LLMs**.  
 
 ---
 
@@ -15,10 +15,18 @@ Currently exploring the full data ecosystem — from **data engineering** to **L
 ---
 
 ## 📌 Featured Projects
-- 🔹 [**Real-Time Crypto Price Prediction**](https://github.com/jvilchesf/my_crypto_predictor) – Kafka + RisingWave + Grafana  
-- 🔹 [**Microsoft Defender for Endpoints**](https://github.com/jvilchesf/MDEndpoints) – Microsoft Defender API + MSSQL + Kubernetes  
-- 🔹 **[Bills Scan Photo - Finetuning AI Liquids](https://github.com/jvilchesf/bills_scan)** – Transformers + Hugging Face + Modal + wandb
-- 🔹 **Insect Cam** – YOLOv11 for insect detection in garden monitoring  
+
+**Machine Learning:**
+- 🔹 [**Real-Time Crypto Price Prediction**](https://github.com/jvilchesf/my_crypto_predictor) – Kafka + RisingWave + Grafana + Kubernetes
+- 🔹 [**US Housing Predictor (In progress)**](https://github.com/jvilchesf/) – Kafka + RisingWave + Grafana + Kubernetes
+
+**Data Engineering + Visualization:**
+- 🔹 [**Microsoft Defender for Endpoints**](https://github.com/jvilchesf/mdendpoints) – Microsoft Defender API + MSSQL + Kubernetes 
+- 🔹 [**Tableau NY Real States**](https://github.com/jvilchesf/nyc_realstates) – UV Python + Tableau  
+
+**AI:**
+- 🔹 [**Building an LLM from scratch**](https://github.com/jvilchesf/build_llm_from_scratch) – Transformers + PyTorch + Chainlit
+- 🔹 [**Bills Scan Photo - Finetuning AI Liquids**](https://github.com/jvilchesf/bills_scan) – Transformers + Hugging Face + Modal + Wandb
 
 👉 Check out my [**Portfolio Repository**](https://github.com/jvilchesf/Portfolio) for more.  
 
@@ -42,4 +50,6 @@ Currently exploring the full data ecosystem — from **data engineering** to **L
 
 ---
 
-✨ *“Data is not just numbers — it’s stories waiting to be told.”*https://jvilchesf.github.io/portfolio.github.io/)
+✨ *"Data is not just numbers — it's stories waiting to be told."*
+
+📖 [**View My Portfolio Website**](https://jvilchesf.github.io/portfolio.github.io/)
